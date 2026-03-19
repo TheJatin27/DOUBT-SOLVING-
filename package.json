@@ -3,13 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-<<<<<<< HEAD
-=======
   "homepage": "https://amansingh9026109314-jpg.github.io/DOUBT-SOLVING-/",
->>>>>>> b7730f608e92987ec5bc6b1ac5afcd872ff46cb8
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
